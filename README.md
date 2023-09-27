@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @idunsky855
-- I'm a B.sc software engineering student, currently on my sophomore year.
+- I'm a B.sc software engineering student, currently on my Junior year.
 - 🌱 I’m currently learning Python, Java, C, JavaScript, HTML, CSS, React, Assembly, R, Bash, MySQL.
 - 📫 reach me at idunsky855@gmail.com
 
