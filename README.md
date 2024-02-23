@@ -42,7 +42,7 @@ I'm a B.sc software engineering student, currently on my junior (3rd) year, majo
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="" target="_blank"><img style="margin: 10px" src="" alt="JavaScript" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" alt="JavaScript" height="50" /></a>
 <a href="" target="_blank"><img style="margin: 10px" src="" alt="HTML" height="50" /></a>
 <a href="" target="_blank"><img style="margin: 10px" src="" alt="CSS" height="50" /></a>
 <a href="" target="_blank"><img style="margin: 10px" src="" alt="react" height="50" /></a>
