@@ -19,8 +19,6 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a> 
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>    
-
-
 <a href="" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="Assembly" height="50" /></a>
 <a href="" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" height="50" /></a>
 
