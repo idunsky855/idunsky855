@@ -13,6 +13,7 @@
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="" target="_blank"><img style="margin: 10px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="Go" height="50" /></a>
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -21,7 +22,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>    
 <a href="" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="Assembly" height="50" /></a>
 <a href="" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" height="50" /></a>
-<a href="" target="_blank"><img style="margin: 10px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="Go" height="50" /></a>
+
 
 </div>  
 
