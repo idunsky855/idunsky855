@@ -1,7 +1,7 @@
 
 ### **<div align="center">Hi 👋, I'm Idan.</div>**  
 
-<div align="center">My name is Idan Dunsky usually known as idunsky855</div>  
+<div align="center">My name is Idan Dunsky AKA idunsky855</div>  
 <div align="center">👨🏻‍🎓 B.sc software engineering student, currently on my junior (3rd) year, majoring in ML and AI 🤖 </div>  
 
 
