@@ -3,7 +3,7 @@
 
 <div align="center">My name is Idan Dunsky AKA idunsky855</div>  
 <div align="center">👨🏻‍🎓 B.sc software engineering student, currently on my junior (3rd) year, majoring in ML and AI 🤖 </div>
-<div align="center">👨🏻‍🎓 Pursuing my Master's degree in intelligent systems 🧠</div>
+<div align="center">👨🏻‍🎓 Pursuing my Master's degree in Intelligent Systems 🧠</div>
 
 
 <br/>  
