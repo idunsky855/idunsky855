@@ -1,5 +1,5 @@
 # Hi, I'm Idan Dunsky! 👋  
-**B.Sc. Software Engineering Student | Master's in Intelligent Systems (AI/ML)**  
+**B.Sc. Software Engineering Student | M.sc in Intelligent Systems Student (AI/ML)**  
 
 I’m passionate about solving real-world problems through **machine learning**, **artificial intelligence**, and **computer vision**. Currently, I'm in my 3rd year, working on innovative AI projects.
 
