@@ -1,7 +1,7 @@
 # Hi, I'm Idan Dunsky! 👋  
-**B.Sc. Software Engineering Student | M.sc in Intelligent Systems Student (AI/ML)**  
+**M.sc in Intelligent Systems Student (AI/ML) | B.Sc. Software Engineering Student**  
 
-I’m passionate about solving real-world problems through **machine learning**, **artificial intelligence**, and **computer vision**. Currently, I'm in my 3rd year, working on innovative AI projects.
+I’m passionate about solving real-world problems through **machine learning**, **artificial intelligence**, and **computer vision**. Currently, I'm in my 4th year (B.sc) and on my 1st year (M.sc), working on innovative AI projects.
 
 ## 🔧 AI/ML & Computer Vision Skill Set
 
