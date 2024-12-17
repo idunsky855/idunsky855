@@ -9,7 +9,7 @@
 
 ## <div align="center">🚀 **Programming Skills**</div>
 
-### <div align="center">**Languages and Frameworks**</div>  
+### <div align="center">**Languages & Frameworks**</div>  
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/) [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/) [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/) [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/) [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
@@ -52,6 +52,18 @@
 <div align="center">
 
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/) [![YOLO](https://img.shields.io/badge/YOLO-00A7E1?style=for-the-badge&logo=yolo&logoColor=white)](https://github.com/ultralytics/yolov5)
+
+</div>
+
+---
+
+## <div align="center">📊 **GitHub Stats**</div>  
+
+<div align="center">
+
+![Idan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idan-dunsky&show_icons=true&theme=tokyonight&hide=stars)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idan-dunsky&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=idan-dunsky&theme=tokyonight)
 
 </div>
 
