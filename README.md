@@ -59,13 +59,13 @@
 
 ## <div align="center">📊 **GitHub Stats**</div>  
 
-<div align="center">
+<!--<div align="center">
 
 ![Idan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idan-dunsky&show_icons=true&theme=tokyonight&hide=stars)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idan-dunsky&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=idan-dunsky&theme=tokyonight)
 
-</div>
+</div>-->
 
 ---
 
